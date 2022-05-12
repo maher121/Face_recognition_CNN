@@ -1,0 +1,4 @@
+# face_recognition
+This program presents the use of CNN for face recognition (feature engineering is laso performed). 
+Dataset used is Yalefaces A and accuracy average accuracy is 97.05%.
+Link for paper: http://j.mecs-press.net/ijem/ijem-v8-n1/v8n1-6.html
